@@ -68,7 +68,7 @@ export default function Home() {
             />
             <button
               type="submit"
-              className="bg-gradient-to-r from-white to-blue-400 text-black w-1/3 text-white px-4 py-2 rounded-lg ml-2"
+              className="bg-gradient-to-r from-white to-blue-400 text-black w-1/3 px-4 py-2 rounded-lg ml-2"
             >
               Search
             </button>
